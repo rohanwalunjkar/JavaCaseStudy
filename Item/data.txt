@@ -1,0 +1,5 @@
+Item [ItemCode=P101, Description=Pen, Price=10.0, ShipmentDate=2023-07-12]
+Item [ItemCode=P102, Description=Book, Price=70.0, ShipmentDate=2024-11-09]
+Item [ItemCode=P103, Description=Table, Price=2000.0, ShipmentDate=2024-04-17]
+Item [ItemCode=P104, Description=TV, Price=10000.0, ShipmentDate=2024-01-23]
+Item [ItemCode=P105, Description=Bed, Price=25000.0, ShipmentDate=2024-06-13]
